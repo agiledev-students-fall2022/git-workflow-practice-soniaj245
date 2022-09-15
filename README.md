@@ -2,7 +2,7 @@
 
 ### Created By
 
-Sonia Jain
+**Sonia Jain**
 
 ### Article Link
 
@@ -16,9 +16,11 @@ Lastly, this article provides excellent suggestions for how someone in a manager
 
 ## Comments
 
-*Mohammed Ajao*
+**Mohammed Ajao**
+
 I like the fact the article comments on possible solutions to address the devops burnout rather than identifying the problem. I often feel the benefits companies offer in terms of free food and company merch are poor attempts to distract from the burn-out employees face. It's best when this burnout is managed as quality work will be produced in turn.
 
 
-### Edits made by Chinedu Nnorom
+**Chinedu Nnorom**
+
 I too find this article to be interesting because I am also a soon-to-be graduate and I just came off of muy internship at Collins Aerospace. Even though I am only 21 years old, and it was my second internship, I knew right away that the type of work that was assigned to me over the course of the summmer was not something I saw myself doing for an extended period of time. Although, the reasons for this feeling align with some of the explanations in the article. I had a high workload, with little knowledge and direction of what I was actually supposed to be doing. This led me to have poorly-defined project goals, because I lacked enough knowledge to even make a goal for myself. I agree with Sonia, on the fact that the demand and importance of advancing software and its' development are extremely important. Although in order to make sure we are getting the best work our of our engineers and developers, we've got to make sure they're happy! 
